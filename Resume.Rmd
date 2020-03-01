@@ -1,0 +1,152 @@
+---
+title: "Nick Berthelsen's Resume"
+author: Nick Berthelsen
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Nick Berthelsen](3651398-color.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nrb783@gmail.com.com
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/nick-berthelsen](www.linkedin.com/in/nick-berthelsen)
+- <i class="fa fa-github"></i> [github.com/nberthelsen](https://github.com/nberthelsen)
+- <i class="fa fa-phone"></i> +1 607-279-6995
+
+
+Key Skills {#skills}
+--------------------------------------------------------------------------------
+
+- R, Python and SQL  
+- Data Visualization  
+- Machine Learning  
+- Business Intelligence
+- Digital and Data Driven Marketing 
+- Agile/Scrum Methodology  
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was created with R.  
+The code is available on my github page.
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Nick Berthelsen {#title}
+--------------------------------------------------------------------------------
+
+### Data Driven Marketer. Data Science Evangelist. Tech Enthusiast.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Cornell Johnson Graduate School of Business
+
+Masters of Business Administration
+
+Ithaca, NY
+
+2018
+
+Digital Technology Immersion
+
+### Cornell University
+
+M.S. in Biochemistry
+
+Ithaca NY
+
+2016
+
+Thesis: Structural biology of plant hormone transporters
+
+### Minnesota State University Moorhead
+
+B.S. in Biochemistry
+
+Moorhead, MN
+
+2014
+
+Summa Cum Laude
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Global Portfolio Manager
+
+3M
+
+Maplewood, MN
+
+2018-Present
+
+::: concise
+- Increased product portfolio sales by 11% YoY.  
+- Set global pricing guidance for over 1,000 SKUs in 63 countries.  
+- Taught R workshops and training sessions for marketing team.  
+- Drove adoption of advanced analytics and machine learing in marketing.
+:::
+
+### R&D Intern
+
+Elanco
+
+Greenfield, IN
+
+2017
+
+::: concise
+- MBA Summer intern.  
+- New Product Value Analysis Division.  
+:::
+
+
+### Unit Deployment Manager
+
+US Air Force
+
+Fort Walton Beach, FL
+
+2007-2010
+
+::: concise
+- Established and administered a secured data sharing system between home squadron and five global detachments.  
+- Managed over 100 deployment training items for special operations squadron ensuring 100% mission readiness.  
+:::
+
+
+### Cyptographic Linguist
+
+US Air Force
+
+Omaha, NE
+
+2002 - 2007
+
+::: concise
+- Tested and deployed new voice recognition software in first operational usage, increased data processing efficiency by 20%.  
+- Brought a new remote signal collection system online for first ever combat mission, sped up intelligence processing and analysis by 30%.  
+:::
+
+
