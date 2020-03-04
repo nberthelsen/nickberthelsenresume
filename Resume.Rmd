@@ -20,10 +20,10 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> nrb783@gmail.com.com
+- <i class="fa fa-envelope"></i> nberthelsen@outlook.com
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/nick-berthelsen](www.linkedin.com/in/nick-berthelsen)
 - <i class="fa fa-github"></i> [github.com/nberthelsen](https://github.com/nberthelsen)
-- <i class="fa fa-phone"></i> +1 607-279-6995
+- <i class="fa fa-phone"></i> +1 651-419-1895
 
 
 Key Skills {#skills}
